@@ -1,0 +1,65 @@
+{
+  "title": "Warm-up",
+  "questions": [
+    {
+      "question": "Which planet is famous for its rings?",
+      "answers": ["Jupiter", "Saturn", "Mars", "Venus"],
+      "correct": 2
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "answers": ["5", "6", "7", "8"],
+      "correct": 2
+    },
+    {
+      "question": "What is the boiling point of water at sea level, in Celsius?",
+      "answers": ["90", "100", "110", "120"],
+      "correct": 2
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "answers": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correct": 4
+    },
+    {
+      "question": "What do bees collect from flowers to make honey?",
+      "answers": ["Nectar", "Sap", "Dew", "Pollen only"],
+      "correct": 1
+    },
+    {
+      "question": "How many minutes are in two hours?",
+      "answers": ["90", "100", "120", "180"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these is a primary colour of light?",
+      "answers": ["Green", "Orange", "Purple", "Pink"],
+      "correct": 1
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answers": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "correct": 3
+    },
+    {
+      "question": "The Pacific Ocean is the largest ocean.",
+      "answers": ["True", "False"],
+      "correct": 1
+    },
+    {
+      "question": "A hexagon has five sides.",
+      "answers": ["True", "False"],
+      "correct": 2
+    },
+    {
+      "question": "Tokyo is the capital of Japan.",
+      "answers": ["True", "False"],
+      "correct": true
+    },
+    {
+      "question": "Water boils at 90 degrees Celsius at sea level.",
+      "answers": ["True", "False"],
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#070b18">
+  <title>Not Kahoot</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body class="player-page">
+  <div class="stripe" data-bar style="transform:scaleX(1)" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+  <div class="offline-banner" role="status">Reconnecting…</div>
+  <div id="app"></div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="/ui.js"></script>
+  <script src="/play.js"></script>
+</body>
+</html>

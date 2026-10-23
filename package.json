@@ -1,0 +1,24 @@
+{
+  "name": "not-kahoot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Not Kahoot is a live quiz you host from a laptop. Players join in the browser.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test --test-concurrency=1 --experimental-test-coverage --test-coverage-include='**/kahoot-cone/server.js' --test-coverage-include='**/kahoot-cone/lib/**/*.js' --test-coverage-include='**/kahoot-cone/public/**/*.js' --test-coverage-exclude='**/node_modules/**' --test-coverage-lines=95 test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "selenium-webdriver": "^4.51.0",
+    "socket.io-client": "^4.8.1"
+  }
+}

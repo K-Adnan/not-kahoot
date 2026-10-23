@@ -1,0 +1,100 @@
+{
+  "title": "All about Dad",
+  "questions": [
+    {
+      "question": "What is Dad's date of birth?",
+      "answers": ["23 October 1967", "26 October 1966", "25 October 1996", "24 October 1976"],
+      "correct": 2
+    },
+    {
+      "question": "Who does dad share a birthday with?",
+      "answers": ["Aleena", "Leia", "Aleeya", "Liyana"],
+      "correct": 3
+    },
+    {
+      "question": "Which of these events also happened in the year of Dad's birth?",
+      "answers": ["JFK's Asassination", "End of the Cold War", "First Moon Landing", "England won the world cup"],
+      "correct": 4
+    },
+    {
+      "question": "Which of these places has Dad NOT worked in?",
+      "answers": ["Launderette", "Thorpe Park", "Grocery Store", "Car Wash"],
+      "correct": 4
+    },
+    {
+      "question": "What year did Dad have his Passing Out Parade?",
+      "answers": ["2008", "2006", "2007", "2005"],
+      "correct": 3
+    },
+    {
+      "question": "Other than Michael Jackson, who else has Dad seen in concert?",
+      "answers": ["UB40", "Prince", "Paula Abdul", "ABBA"],
+      "correct": 2
+    },
+    {
+      "question": "Which airline did Dad work for when he was a Baggage Handler?",
+      "answers": ["British Airways", "Delta Air Lines", "Virgin Atlantic", "United Airlines"],
+      "correct": 4
+    },
+    {
+      "question": "Which of these moves can Dad not do?",
+      "answers": ["Moonwalk", "Windmill", "Splits", "Handstand"],
+      "correct": 3
+    },
+    {
+      "question": "What is the name of Dad's Jalsa Nizamat?",
+      "answers": ["Command Centre", "Security Coordination", "Jalsa Salana Amoomi", "Amoomi Advance"],
+      "correct": 2
+    },
+    {
+      "question": "Dad has been bitten by a dog - True or False?",
+      "answers": ["False", "True"],
+      "correct": 2
+    },
+    {
+      "question": "After how many years did Dad's visit Pakistan again in 2024?",
+      "answers": ["17", "23", "31", "44"],
+      "correct": 4
+    },
+    {
+      "question": "What are Dad's favourite types of trousers?",
+      "answers": ["Jeans", "Chinos", "Combats", "Jogging bottoms"],
+      "correct": 3
+    },
+    {
+      "question": "What is Dad's favourite dessert?",
+      "answers": ["Gulaab Jamun & Ice Cream", "Gaajar Ka Halwa & Ice Cream", "Chocolate", "Profiteroles"],
+      "correct": 2
+    },
+    {
+      "question": "Which sibling's wedding did Dad attend in crutches?",
+      "answers": ["Safia", "Attia", "Hanif", "Zaheer"],
+      "correct": 4
+    },
+    {
+      "question": "What is the combined age of all of Dad's granchildren?",
+      "answers": ["14", "10", "13", "12"],
+      "correct": 3
+    },
+    {
+      "question": "What is Dad's egg speciality?",
+      "answers": ["Omlette", "Fried Egg", "Scrambled Egg", "Boiled Egg"],
+      "correct": 2
+    },
+    {
+      "question": "Out of the following options, which Bollywood movie does Dad like the most?",
+      "answers": ["Main Hoon Na", "K3G", "Dil To Pagal Hai", "Gajini"],
+      "correct": 4
+    },
+    {
+      "question": "Which of these does Dad prefer to do in the most",
+      "answers": ["Washing up", "Buying groceries", "Hoovering", "Preparing dinner"],
+      "correct": 3
+    },
+    {
+      "question": "What did Dad want to be when he was older?",
+      "answers": ["Police Officer", "Architect", "Engineer", "Carpenter"],
+      "correct": 2
+    }
+  ]
+}
